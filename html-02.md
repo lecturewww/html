@@ -8,13 +8,13 @@ FTP는 사용자가 네트워크상의 이기종 컴퓨터에 로그인 한 후 
 </p>
 
 <h2> 팀 버너스-리(Tim Berners-Lee, 1955~) </h2>
-<img src='../assets/images/Tim.png' width="100">
+<img src='./images/Tim.png' width="100">
 <p>   
 유럽입자 물리연구소 ( 스위스,  제네바)에 근무하던 “팀 버너스-리(Tim Berners-Lee, 1955~) ” 
 10년의 연구 끝에 1990년 10월 최초의 웹편집기를 만들고 1990.11 최초의 World Wide Web 를 만듦 <br>
 1990.12월 최초의 웹서버 ( info.cern.ch )를 만듦 </p>
 <h2> 최초의 웹사이트 :  http://info.cern.ch/</h2>
-<img src='../assets/images/first_web.png' width="400" height="auto">
+<img src='./images/first_web.png' width="400" height="auto">
 <p> 현재 해당 사이트를 열면 첨부된 이미지와 다르게 보인다 새롭게 바뀌기전에는 이런 모습이었다 </p>
 
 <h2>인터넷은 어떻게 동작하는가? </h2> 
